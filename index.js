@@ -27,5 +27,5 @@ answer.addEventListener("click", () => {
 
 // bookmark.addEventListener("click", () => {
 //  bookmark.classList.toogle("bookmark--active");
-//  console.log("<-- bookmark clicked! --...>");
+//  console.log("<- bookmark clicked! -...>");
 //});
